@@ -1,7 +1,7 @@
 # Education Network Teachware Projects
 
 ## Contact
-If you have any questions about these projects please [Contact Us](education.de@br-automation.com).<br>
+If you have any questions about these projects please [Contact Us](mailto:education.de@br-automation.com).<br>
 
 ***
 
