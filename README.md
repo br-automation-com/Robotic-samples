@@ -1,22 +1,64 @@
 # Education Network Teachware Projects
 
 ## Contact
-If you have any questions about these projects please [Contact Us](mailto:education.de@br-automation.com).<br>
+If you have any questions about these projects please [Contact Us](mailto:education.de@br-automation.com).
 
 ***
 
-## Projects<br><br>
+## Helpful Documents
 
-#### Igus Delta
-<img src="https://github.com/br-automation-com/Robotic-samples/blob/main/images/igusRendering.png" width="400" height="400">
+[**Here**](./00_Helpful%20Documents/) you'll find two very helpful documents. Both documents are available in english and german. The EduCheats is a Automation Studio CheatSheet that provides the most important steps in Automation Studio and the EduCompass contains the best resources for self-study to give you a perfekt start with your B&R project. 
 
-[**This**](/01_Robotic/Delta/igusDeltaV2.00.1.zip) is a sample project to run a igus delta robot with a B&R plc. For more information have a look at the file igusDeltaGuide.
+***
+</br>
 
-[**For a detailed description see this link**](/01_Robotic/Delta/igusDeltaGuide.pdf)<br><br>
+# Projects
 
-#### 3 Axis Delta
-<img src="https://github.com/br-automation-com/Robotic-samples/blob/main/images/DeltaRendering02.png" width="400" height="400">
+## Delta Robots
 
-[**This**](/01_Robotic/Delta/PlotbotDeltaV2.00.1.zip) is a sample project to run a 3D printed 3-axis delta robot with a B&R plc. To get the 3D print files for free please contact education.de@br-automation.com. For more information have a look at the file PlotbotDeltaGuide.
+### Igus Delta
+<br>
+<img src="./images/igusRendering01.png" width="300" height="300">
+
+<br>
+
+[**This**](/01_Robotic/Delta/igusDeltaV2.00.1.zip) is a sample project to run a igus delta robot with a B&R PLC. For more information have a look at the link below.
+
+[**For a detailed description see this link**](/01_Robotic/Delta/igusDeltaGuide.pdf)
+
+
+### 3D printed Delta
+
+<br>
+
+<img src="./images/DeltaRendering01.png" width="300" height="300">
+
+<br>
+
+[**This**](/01_Robotic/Delta/PlotbotDeltaV2.00.1.zip) is a sample project to run a 3D printed 3-axis delta robot with a B&R PLC. To get the 3D print files please contact education.de@br-automation.com. For more information have a look at the link below.
 
 [**For a detailed description see this link**](/01_Robotic/Delta/PlotbotDeltaGuide.pdf)
+
+***
+
+## Robo Arms
+
+### Igus 5-Axis Robolink Projects
+<br>
+<img src="./images/igusRobolink.png" width="300" height="300">
+
+<br>
+
+#### Igus Robolink RL-D-RBT-3322S-BF
+
+[**This**](./01_Robotic/5-Axis%RoboArm/igusRobolink3322S_V2.01.0.zip) is a sample project to run the 5-axis igus robolink RL-D-RBT-3322S-BF robot with a B&R PLC. For more information have a look at the link below.
+
+#### Igus Robolink RL-D-RBT-5532S-BF
+
+[**This**](./01_Robotic/5-Axis%20RoboArm/igusRobolink5532S_V2.01.0.zip) is a sample project to run the 5-axis igus robolink RL-D-RBT-5532S-BF robot with a B&R PLC. For more information have a look at the link below.
+
+<br>
+
+[**For a detailed description to these projects see this link**](./01_Robotic/5-Axis%20RoboArm/IgusGuide_V2.01.0.pdf)
+
+***
