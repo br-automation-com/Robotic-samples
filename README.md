@@ -7,7 +7,7 @@ If you have any questions about these projects please [Contact Us](mailto:educat
 
 ## Helpful Documents
 
-[**Here**](./00_Helpful%20Documents/) you'll find two very helpful documents. Both documents are available in english and german. The EduCheats is a Automation Studio CheatSheet that provides the most important steps in Automation Studio and the EduCompass contains the best resources for self-study to give you a perfekt start with your B&R project. 
+[**Here**](./00_Helpful%20Documents/) are two helpful documents available in both English and German. The EduCheats is a Automation Studio CheatSheet that provides the most important steps in Automation Studio, while the EduCompass offers the best resources for self-study, ensuring a perfekt start with your B&R project. 
 
 ***
 </br>
